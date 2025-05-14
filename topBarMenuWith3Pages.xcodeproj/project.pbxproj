@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		578A86342DD4704E004EF960 /* topBarMenuWith3Pages.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = topBarMenuWith3Pages.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		570F7C012DD48AEA00129FB2 /* topBarMenuWith3Pages.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = topBarMenuWith3Pages.app; path = "/Users/aadishhere/Desktop/Bluebex/topBarMenuWith3Pages/build/Debug-iphoneos/topBarMenuWith3Pages.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				578A86362DD4704E004EF960 /* topBarMenuWith3Pages */,
-				578A86352DD4704E004EF960 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		578A86352DD4704E004EF960 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				578A86342DD4704E004EF960 /* topBarMenuWith3Pages.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -67,7 +58,7 @@
 			packageProductDependencies = (
 			);
 			productName = topBarMenuWith3Pages;
-			productReference = 578A86342DD4704E004EF960 /* topBarMenuWith3Pages.app */;
+			productReference = 570F7C012DD48AEA00129FB2 /* topBarMenuWith3Pages.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -95,7 +86,7 @@
 			mainGroup = 578A862B2DD4704E004EF960;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 578A86352DD4704E004EF960 /* Products */;
+			productRefGroup = 578A862B2DD4704E004EF960;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
